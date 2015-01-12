@@ -1,0 +1,12 @@
+F:\task1\task1\bin\Debug\task1.exe.config
+F:\task1\task1\bin\Debug\task1.exe
+F:\task1\task1\bin\Debug\task1.pdb
+F:\task1\task1\obj\Debug\task1.csprojResolveAssemblyReference.cache
+F:\task1\task1\obj\Debug\task1.exe
+F:\task1\task1\obj\Debug\task1.pdb
+D:\Ol9\task1\task1\bin\Debug\task1.exe.config
+D:\Ol9\task1\task1\obj\Debug\task1.exe
+D:\Ol9\task1\task1\obj\Debug\task1.pdb
+D:\Ol9\task1\task1\bin\Debug\task1.exe
+D:\Ol9\task1\task1\bin\Debug\task1.pdb
+D:\Ol9\task1\task1\obj\Debug\task1.csprojResolveAssemblyReference.cache
